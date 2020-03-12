@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: WKND Sites Project - UI apps
+Content-Package-Roots: /apps/msm/wknd_blueprint,/apps/wknd
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: praful
+Implementation-Vendor-Id: com.adobe.aem.guides
+Content-Package-Dependencies: adobe/cq60:core.wcm.components.content:2
+ .7.0,adobe/cq60:core.wcm.components.config:2.7.0
+Content-Package-Type: application
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_144
+Content-Package-Description: UI apps package for WKND Sites Project
+Content-Package-Id: com.adobe.aem.guides:aem-guides-wknd.ui.apps:0.0.1
+ -SNAPSHOT
+

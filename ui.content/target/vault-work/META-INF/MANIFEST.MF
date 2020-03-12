@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: WKND Sites Project - UI content
+Content-Package-Roots: /conf/wknd,/content/dam/wknd,/content/experienc
+ e-fragments/wknd,/content/wknd
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: praful
+Implementation-Vendor-Id: com.adobe.aem.guides
+Content-Package-Dependencies: com.adobe.aem.guides:aem-guides-wknd.ui.
+ apps:0.0.1-SNAPSHOT
+Content-Package-Type: content
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_144
+Content-Package-Description: UI content package for WKND Sites Project
+Content-Package-Id: com.adobe.aem.guides:aem-guides-wknd.ui.content:0.
+ 0.1-SNAPSHOT
+
